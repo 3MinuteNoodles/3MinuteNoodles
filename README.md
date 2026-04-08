@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3MinuteNoodles
 - 👀 I’m interested in coding and computer science
-- 🌱 I’m currently learning computer science in a degree at stellenbosch
+- 🌱 I’m currently completing a postgraduate degree in Computer Science at Stellenbosch University
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me via 3tiennetredoux@gmail.com
 
